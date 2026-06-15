@@ -1,0 +1,6 @@
+{
+  "name": "LearnVault",
+  "description": "A modern premium full-stack personal learning vaults application for students to track topics, revision statuses, notes with Markdown support, and streaks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
